@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "689716544213",
+    "firebase_url": "https://mpprj2-default-rtdb.firebaseio.com",
+    "project_id": "mpprj2",
+    "storage_bucket": "mpprj2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689716544213:android:9659d6bcdc2d6bc124585c",
+        "android_client_info": {
+          "package_name": "com.professionalandroid.apps.firebasetest2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689716544213-ggsu9mq07ihavi3gq849st5holg4jf1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsM73O1wCINWyS8itVf7HqQDUzYV2Pn3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689716544213-ggsu9mq07ihavi3gq849st5holg4jf1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
